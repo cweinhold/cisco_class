@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# vandalized by Craig
+
 import sys
 
 def getRouter(rtr):
